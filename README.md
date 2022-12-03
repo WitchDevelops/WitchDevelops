@@ -27,12 +27,12 @@
     </tr>
     <tr>
         <td>CSS</td>
-        <td></td>
+        <td>React (basics)</td>
         <td>Angular CLI</td>
         <td>Canva</td>
     </tr>
         <td>JavaScript</td>
-        <td>React (basics) </td>
+        <td></td>
         <td>VS code</td>
         <td>Photoshop</td>
     <tr>
