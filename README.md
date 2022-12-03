@@ -32,7 +32,7 @@
         <td>Canva</td>
     </tr>
         <td>JavaScript</td>
-        <td></td>
+        <td>React (basics) </td>
         <td>VS code</td>
         <td>Photoshop</td>
     <tr>
