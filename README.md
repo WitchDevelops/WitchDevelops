@@ -44,12 +44,6 @@
     
  </table>
 
-## Design tools
-* Figma
-* Canva
-* Photoshop
-* Illustrator
-
 
 # Stats
 
