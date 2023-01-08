@@ -7,6 +7,7 @@
 # Contact
    
     discord: Domi#3442
+ ![Contact info](./contactme.png)
     
 # Portfolio
 <h3><a href="http://mokosh.dev">mokosh.dev</a></h3>
