@@ -1,7 +1,6 @@
 # About me
-<h2>👋 Hi, this is Domi! I'm learning frontend developement and graphic design.</h2>
-<br>I'd love to find a job (or a traineeship) as a frontend dev.
-<br><br>I’m currently learning Angular, and oh boi, it ain't easy. I probably should have started with React. So next in line is React and Bootstrap.
+<h2>👋 Hi, this is Domi! I'm learning frontend developement, web design and graphic design.</h2>
+<br>I'd love to find a job (or a traineeship) as a frontend dev. You can also hire me to design and code a homepage for you.
 <br>It would be cool to collaborate on beginner-friendly projects :D
 
 # Contact
@@ -12,7 +11,17 @@
 # Portfolio
 <h3><a href="http://mokosh.dev">mokosh.dev</a></h3>
 
-# Tech stack
+# What am I learning at the moment
+* [JavaScript Algorithms and Data Structures - FreeCodeCamp](https://www.freecodecamp.org/Domi_)
+* [Building Interactive JavaScript Websites - CodeCademy](https://www.codecademy.com/profiles/the_witch)
+* [Front-End Engineer career path - CodeCamy](https://www.codecademy.com/profiles/the_witch)
+
+# What am I building now
+I'm currently working on two projects, one is a home page for local business, the other is a gallery with art by a friend of mine.
+1) Massage studio caled "Masaż Mistrza" - project repo [massage studio in Warsaw](https://github.com/WitchDevelops/Massage-studio-masaz-mistrza)
+2) Art gallery by Sofia Banchenko - project repo [modern art by Sofia Banchenko](https://github.com/WitchDevelops/Artgallery-Sofiadali)
+
+# My tech stack
 <table>
     <tr>
         <th>Languages</th>
@@ -23,7 +32,7 @@
     <tr>
         <td>HTML</td>
         <td>Angular (basics)</td>
-         <td>Git</td>
+        <td>Git</td>
         <td>Figma</td>
     </tr>
     <tr>
