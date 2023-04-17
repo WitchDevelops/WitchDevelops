@@ -1,6 +1,6 @@
 # About me
 <h2>👋 Hello there. My name is Dominika and I'm learning frontend developement and web design.</h2>
-<br>I'd love to find a job (or a traineeship) as a frontend dev. You can also hire me to design and code a homepage for you.
+<br>I'm working at eStoreLabs as junior frontend developer. You can also hire me as a freelancer to design and code a homepage for you.
 <br>It would be cool to collaborate on beginner-friendly projects :D
 
 # Contact
