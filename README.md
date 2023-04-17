@@ -1,5 +1,5 @@
 # About me
-<h2>👋 Hello there. My name is Dominika and I'm learning frontend developement and web design.</h2>
+<h2>👋 Hello there, I'm Domi</h2>
 <br>I'm working at eStoreLabs as junior frontend developer and at Syntro AI startup as head of product and UX/UI/frontend. You can also hire me as a freelancer to design and code a homepage for you.
 <br>I'm also open to collaborate on beginner-friendly projects, that would be super cool :D
 
