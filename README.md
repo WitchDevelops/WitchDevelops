@@ -13,13 +13,15 @@
 
 # What am I learning at the moment
 * [JavaScript Algorithms and Data Structures - FreeCodeCamp](https://www.freecodecamp.org/Domi_)
-* [Building Interactive JavaScript Websites - CodeCademy](https://www.codecademy.com/profiles/the_witch)
 * [Front-End Engineer career path - CodeCamy](https://www.codecademy.com/profiles/the_witch)
+* SASS CSS
 
 # What am I building now
-I'm currently working on two projects, one is a home page for local business, the other is a gallery with art by a friend of mine.
+I'm ~~currently working on two projects~~, one is a home page for local business, the other is a gallery with art by a friend of mine.
 1) Massage studio caled "Masaż Mistrza" - project repo [massage studio in Warsaw](https://github.com/WitchDevelops/Massage-studio-masaz-mistrza)
 2) Art gallery by Sofia Banchenko - project repo [modern art by Sofia Banchenko](https://github.com/WitchDevelops/Artgallery-Sofiadali)
+
+These've been put on hold, as I'm working on a homepage for our startup: SYNTRO.
 
 # My tech stack
 <table>
