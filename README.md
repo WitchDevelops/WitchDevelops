@@ -43,15 +43,23 @@ These've been put on hold, as I'm working on a homepage for our startup: SYNTRO.
         <td>Angular CLI</td>
         <td>Canva</td>
     </tr>
+   <tr>
         <td>JavaScript</td>
         <td></td>
         <td>VS code</td>
         <td>Photoshop</td>
+   </tr>
     <tr>
         <td>TypeScript (learning)</td>
         <td></td>
-        <td></td>
+        <td>npm</td>
         <td>Illustrator</td>
+    </tr>
+   <tr>
+        <td>PHP (basic syntax)</td>
+        <td></td>
+        <td>Vite</td>
+        <td></td>
     </tr>
     
  </table>
