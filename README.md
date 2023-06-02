@@ -1,6 +1,6 @@
 # About me
 <h2>👋 Hello there, I'm Domi</h2>
-<br>I'm working at eStoreLabs as junior frontend developer and at Syntro AI startup as head of product and UX/UI/frontend. You can also hire me as a freelancer to design and code a homepage for you.
+<br>I'm working at eStoreLabs as a junior frontend developer and at Syntro AI startup as head of product and UX/UI/frontend. You can also hire me as a freelancer to design and code a homepage for you.
 <br>I'm also open to collaborate on beginner-friendly projects, that would be super cool :D
 
 # Contact
@@ -14,7 +14,7 @@
 # What am I learning at the moment
 * [JavaScript Algorithms and Data Structures - FreeCodeCamp](https://www.freecodecamp.org/Domi_)
 * [Front-End Engineer career path - CodeCamy](https://www.codecademy.com/profiles/the_witch)
-* SASS CSS
+* React
 
 # What am I building now
 I'm ~~currently working on two projects~~, one is a home page for local business, the other is a gallery with art by a friend of mine.
@@ -38,8 +38,8 @@ These've been put on hold, as I'm working on a homepage for our startup: SYNTRO.
         <td>Figma</td>
     </tr>
     <tr>
-        <td>CSS</td>
-        <td>React (basics)</td>
+        <td>CSS (SASS)</td>
+        <td>React (leaarning)</td>
         <td>Angular CLI</td>
         <td>Canva</td>
     </tr>
