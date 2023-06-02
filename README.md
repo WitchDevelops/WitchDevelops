@@ -2,6 +2,7 @@
 <h2>👋 Hello there, I'm Domi</h2>
 <br>I'm working at eStoreLabs as a junior frontend developer and at Syntro AI startup as head of product and UX/UI/frontend. You can also hire me as a freelancer to design and code a homepage for you.
 <br>I'm also open to collaborate on beginner-friendly projects, that would be super cool :D
+(my apparent lower activity is because I do work-related coding from my [work account](https://github.com/Domi-eStore))
 
 # Contact
    
