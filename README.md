@@ -14,7 +14,7 @@
 
 # What am I learning at the moment
 * [JavaScript Algorithms and Data Structures - FreeCodeCamp](https://www.freecodecamp.org/Domi_)
-* [Front-End Engineer career path - CodeCamy](https://www.codecademy.com/profiles/the_witch)
+* [Front-End Engineer career path - CodeCademy](https://www.codecademy.com/profiles/the_witch)
 * React
 
 # What am I building now
@@ -35,19 +35,19 @@ This has also been put on hold, I'm working on UX/UI of our Syntro app (it's a L
     </tr>
     <tr>
         <td>HTML</td>
-        <td>Angular (basics)</td>
+        <td>Bootstrap</td>
         <td>Git</td>
         <td>Figma</td>
     </tr>
     <tr>
         <td>CSS (SASS)</td>
-        <td>React (leaarning)</td>
+        <td>Angular (basics)</td>
         <td>Angular CLI</td>
         <td>Canva</td>
     </tr>
    <tr>
         <td>JavaScript</td>
-        <td></td>
+        <td>React (learning now)</td>
         <td>VS code</td>
         <td>Photoshop</td>
    </tr>
@@ -72,6 +72,11 @@ This has also been put on hold, I'm working on UX/UI of our Syntro app (it's a L
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WitchDevelops&count_private=true&show_icons=true&theme=transparent)](https://github.com/WitchDevelops/github-readme-stats)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=WitchDevelops&layout=compact&theme=transparent)
+
+# Work account stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domi-eStore&count_private=true&show_icons=true&theme=transparent)](https://github.com/WitchDevelops/github-readme-stats)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Domi-eStore&layout=compact&theme=transparent)
 <!---
 WitchDevelops/WitchDevelops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
