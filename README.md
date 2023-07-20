@@ -22,7 +22,8 @@ I'm ~~currently working on two projects~~, one is a home page for local business
 1) Massage studio caled "Masaż Mistrza" - project repo [massage studio in Warsaw](https://github.com/WitchDevelops/Massage-studio-masaz-mistrza)
 2) Art gallery by Sofia Banchenko - project repo [modern art by Sofia Banchenko](https://github.com/WitchDevelops/Artgallery-Sofiadali)
 
-These've been put on hold, as I'm working on a homepage for our startup: SYNTRO.
+~~These've been put on hold, as I'm working on a homepage for our startup: SYNTRO.~~
+This has also been put on hold, I'm working on UX/UI of our Syntro app (it's a LLM-based tool for life science researchers), once it's done I'll move on to building its frontend in React.
 
 # My tech stack
 <table>
