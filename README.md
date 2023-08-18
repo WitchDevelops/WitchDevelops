@@ -15,7 +15,7 @@
 # What am I learning at the moment
 * [JavaScript Algorithms and Data Structures - FreeCodeCamp](https://www.freecodecamp.org/Domi_)
 * [Front-End Engineer career path - CodeCademy](https://www.codecademy.com/profiles/the_witch)
-* React
+* [React - W3Schools](https://www.w3schools.com/react/default.asp)
 
 # What am I building now
 I'm ~~currently working on two projects~~, one is a home page for local business, the other is a gallery with art by a friend of mine.
