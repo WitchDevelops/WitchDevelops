@@ -1,23 +1,41 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=witchdevelops&label=Profile%20views&color=0e75b6&style=flat" alt="witchdevelops" /> </p>
+
 # About me
+
 <h2>👋 Hello there, I'm Domi</h2>
 <br>I'm working at eStoreLabs as a junior frontend developer and at Syntro AI startup as head of product and UX/UI/frontend. You can also hire me as a freelancer to design and code a homepage for you.
 <br>I'm also open to collaborate on beginner-friendly projects, that would be super cool :D
-(my apparent lower activity is because I do work-related coding from my [work account](https://github.com/Domi-eStore))
+(my apparent lower activity is because I do work-related coding from my [work account](https://github.com/Domi-eStore) )
 
 # Contact
-   
-    discord: Domi#3442
- ![Contact info](./contactme.png)
-    
-# Portfolio
-<h3><a href="http://mokosh.dev">mokosh.dev</a></h3>
+
+<table>
+   <tbody>
+      <tr>
+         <td>Linked In</td>
+         <td><a href="https://linkedin.com/in/dominika-wojewska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dominika-wojewska" height="30" width="40" /></a></td>
+         <td></td>
+         <td>email</td>
+         <td><a href="mailto:d.n.wojewska@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mail" height="30" width="40" /></a></td>
+         <td></td>
+         <td>Stack overflow</td>
+         <td><a href="https://stackoverflow.com/users/21059715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack overflow" height="30" width="40" /></a></td>
+      </tr>
+   </tbody>
+</table>
+
+<!-- # Portfolio
+
+<h3><a href="http://mokosh.dev">mokosh.dev</a></h3> -->
 
 # What am I learning at the moment
+
 * [JavaScript Algorithms and Data Structures - FreeCodeCamp](https://www.freecodecamp.org/Domi_)
 * [Front-End Engineer career path - CodeCademy](https://www.codecademy.com/profiles/the_witch)
 * [React - W3Schools](https://www.w3schools.com/react/default.asp)
 
 # What am I building now
+
 I'm ~~currently working on two projects~~, one is a home page for local business, the other is a gallery with art by a friend of mine.
 1) Massage studio caled "Masaż Mistrza" - project repo [massage studio in Warsaw](https://github.com/WitchDevelops/Massage-studio-masaz-mistrza)
 2) Art gallery by Sofia Banchenko - project repo [modern art by Sofia Banchenko](https://github.com/WitchDevelops/Artgallery-Sofiadali)
@@ -26,46 +44,103 @@ I'm ~~currently working on two projects~~, one is a home page for local business
 This has also been put on hold, I'm working on UX/UI of our Syntro app (it's a LLM-based tool for life science researchers), once it's done I'll move on to building its frontend in React.
 
 # My tech stack
-<table>
-    <tr>
-        <th>Languages</th>
-        <th>Frameworks</th>
-        <th>Coding tools</th>
-        <th>Design tools</th>
-    </tr>
-    <tr>
-        <td>HTML</td>
-        <td>Bootstrap</td>
-        <td>Git</td>
-        <td>Figma</td>
-    </tr>
-    <tr>
-        <td>CSS (SASS)</td>
-        <td>Angular (basics)</td>
-        <td>Angular CLI</td>
-        <td>Canva</td>
-    </tr>
-   <tr>
-        <td>JavaScript</td>
-        <td>React (learning now)</td>
-        <td>VS code</td>
-        <td>Photoshop</td>
-   </tr>
-    <tr>
-        <td>TypeScript (learning)</td>
-        <td></td>
-        <td>npm</td>
-        <td>Illustrator</td>
-    </tr>
-   <tr>
-        <td>PHP (basic syntax)</td>
-        <td></td>
-        <td>Vite</td>
-        <td></td>
-    </tr>
-    
- </table>
 
+<table align="left">
+   <tbody>
+      <tr>
+         <td align="left"><strong>Languages</strong></td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+            <br>HTML
+         </td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+            <br>CSS
+         </td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+            <br>JavaScript <br>(ES6)
+         </td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+            <br>PHP<br>(syntax)
+         </td>
+      </tr>
+      <tr>
+         <td align="left"><strong>Preprocessors, Libraries</strong></td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+            <br>SASS
+         </td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+            <br>Bootstrap
+         </td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+            <br>React
+         </td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td align="left"><strong>Coding tools</strong></td>
+         <td align="center">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+            <br>git
+         </td>
+         <td align="center">
+            <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
+            <br>Netlify
+         </td>
+         <td align="center">
+            <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/>
+            <br>npm and nvm
+         </td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td align="left"><strong>Collaboration tools</strong></td>
+         <td align="center">
+            <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> 
+            <br>Jira
+         </td>
+         <td align="center">
+            <img src="https://upload.vectorlogo.zone/logos/asana/images/cae029cc-73d9-4b0d-83e2-70893c439061.svg" alt="inkscape" width="40" height="40"/>
+            <br>Asana
+         </td>
+         <td align="center">
+         </td>
+         <td align="center">
+         </td>
+      </tr>
+      <tr>
+         <td align="left"><strong>Design tools</strong></td>
+         <td align="center">
+            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+            <br>Figma
+            <br>(design and prototyping)
+         </td>
+         <td align="center">
+            <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="inkscape" width="40" height="40"/>
+            <br>Inkscape
+         </td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+            <br>Adobe Photoshop
+         </td>
+         <td align="center">
+            <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+            <br>Adobe Illustrator
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+<br>
+
+# GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=WitchDevelops&theme=transparent)](https://github.com/WitchDevelops/github-profile-trophy)
 
 # Stats
 
@@ -76,8 +151,3 @@ This has also been put on hold, I'm working on UX/UI of our Syntro app (it's a L
 # Work account stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domi-eStore&count_private=true&show_icons=true&theme=transparent)](https://github.com/WitchDevelops/github-readme-stats)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Domi-eStore&layout=compact&theme=transparent)
-<!---
-WitchDevelops/WitchDevelops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
