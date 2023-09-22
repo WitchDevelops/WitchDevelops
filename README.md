@@ -36,13 +36,10 @@
 
 # What am I building now
 
-I'm ~~currently working on two projects~~, one is a home page for local business, the other is a gallery with art by a friend of mine.
-1) Massage studio caled "Masaż Mistrza" - project repo [massage studio in Warsaw](https://github.com/WitchDevelops/Massage-studio-masaz-mistrza)
-2) Art gallery by Sofia Banchenko - project repo [modern art by Sofia Banchenko](https://github.com/WitchDevelops/Artgallery-Sofiadali)
-
-~~These've been put on hold, as I'm working on a homepage for our startup: SYNTRO.~~
-This has also been put on hold, I'm working on UX/UI of our Syntro app (it's a LLM-based tool for life science researchers), once it's done I'll move on to building its frontend in React.
-
+* [FrontEnd Mentor challenge - portfolio - React](https://github.com/WitchDevelops/minimal-portfolio)
+* [web app to track learning progress - group project - tech stack TBD](https://github.com/WitchDevelops/progress-tracker)
+* web app for life science researchers - Syntro.ai - React/Next/Python/lots of stuff
+  
 # My tech stack
 
 <table align="left">
