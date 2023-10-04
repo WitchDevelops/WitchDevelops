@@ -20,6 +20,9 @@
          <td></td>
          <td>Stack overflow</td>
          <td><a href="https://stackoverflow.com/users/21059715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack overflow" height="30" width="40" /></a></td>
+          <td></td>
+         <td>Blog</td>
+         <td><a href="https://blog.mokosh.dev/" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="hashnode blog" height="30" width="30" /></a></td>
       </tr>
    </tbody>
 </table>
