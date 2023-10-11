@@ -39,9 +39,7 @@
 
 # What am I building now
 
-* [FrontEnd Mentor challenge - portfolio - React](https://github.com/WitchDevelops/minimal-portfolio)
 * [web app to track learning progress - group project - tech stack TBD](https://github.com/WitchDevelops/progress-tracker)
-* web app for life science researchers - Syntro.ai - React/Next/Python/lots of stuff
   
 # My tech stack
 
