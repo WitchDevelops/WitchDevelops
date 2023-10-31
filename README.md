@@ -33,13 +33,15 @@
 
 # What am I learning at the moment
 
-* [JavaScript Algorithms and Data Structures - FreeCodeCamp](https://www.freecodecamp.org/Domi_)
 * [Front-End Engineer career path - CodeCademy](https://www.codecademy.com/profiles/the_witch)
 * [React - W3Schools](https://www.w3schools.com/react/default.asp)
+* TypeScript
+* Next.js
 
 # What am I building now
 
-* [web app to track learning progress - group project - tech stack TBD](https://github.com/WitchDevelops/progress-tracker)
+* [web app to track learning progress - group project - Next.js](https://github.com/WitchDevelops/progress-tracker)
+* [YouTube clone web app in React](https://github.com/WitchDevelops/VideoVerse)
   
 # My tech stack
 
