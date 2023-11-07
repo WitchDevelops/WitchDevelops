@@ -185,7 +185,7 @@
 
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=WitchDevelops&theme=transparent)](https://github.com/WitchDevelops/github-profile-trophy)   
+[![trophy](https://github-profile-trophy.vercel.app/?username=WitchDevelops&theme=algolia&row=2&column=5)](https://github.com/WitchDevelops/github-profile-trophy)   
 
 
 ## Stats
