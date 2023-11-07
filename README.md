@@ -3,26 +3,26 @@
 # About me
 
 <h2>👋 Hello there, I'm Domi</h2>
-<br>I'm working at eStoreLabs as a junior frontend developer and at Syntro AI startup as head of product and UX/UI/frontend. You can also hire me as a freelancer to design and code a homepage for you.
-<br>I'm also open to collaborate on any cool projects :D
-(my apparent lower activity is because I do work-related coding from my [work account](https://github.com/Domi-eStore) )
+<br>I'm a frontend developer with an extensive background in life science. I love craeting beautiful things with code. I also dabble in UI/UX and graphic design. Usually you can find me reading a book or knitting yet another pair of socks.
 
-# Contact
+## Contact
 
 <table>
    <tbody>
       <tr>
-         <td>Linked In</td>
+         <td width="120">Linked In</td>
          <td><a href="https://linkedin.com/in/dominika-wojewska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dominika-wojewska" height="30" width="40" /></a></td>
          <td></td>
-         <td>email</td>
+         <td width="120">email</td>
          <td><a href="mailto:d.n.wojewska@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mail" height="30" width="40" /></a></td>
          <td></td>
-         <td>Stack overflow</td>
+         <td width="130">Stack overflow</td>
          <td><a href="https://stackoverflow.com/users/21059715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack overflow" height="30" width="40" /></a></td>
           <td></td>
-         <td>Blog</td>
+         <td width="120">Blog</td>
          <td><a href="https://blog.mokosh.dev/" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="hashnode blog" height="30" width="30" /></a></td>
+         <td width="120">Etsy</td>
+         <td><a href="https://www.etsy.com/shop/WitchCraftsDW" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Etsy_icon.svg" alt="hashnode blog" height="30" width="30" /></a></td>
       </tr>
    </tbody>
 </table>
@@ -31,21 +31,23 @@
 
 <h3><a href="http://mokosh.dev">mokosh.dev</a></h3> -->
 
-# What am I learning at the moment
+## What am I learning at the moment
 
 * [Front-End Engineer career path - CodeCademy](https://www.codecademy.com/profiles/the_witch)
 * [React - W3Schools](https://www.w3schools.com/react/default.asp)
+* [React - Scrimba](https://scrimba.com/learn/learnreact)
 * TypeScript
-* Next.js
+* [Next.js - docs](https://nextjs.org/learn)
 
-# What am I building now
+## What am I building now
 
-* [web app to track learning progress - group project - Next.js](https://github.com/WitchDevelops/progress-tracker)
+* [web app to track learning progress - group project - Next.js, React, Tailwind](https://github.com/WitchDevelops/progress-tracker)
 * [YouTube clone web app in React](https://github.com/WitchDevelops/VideoVerse)
   
-# My tech stack
+## My tech stack
 
-<table align="left">
+<div style="clear: both;">
+<table align="left" style="display: block; clear: both;">
    <tbody>
       <tr>
          <td align="left"><strong>Languages</strong></td>
@@ -59,28 +61,64 @@
          </td>
          <td align="center">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-            <br>JavaScript <br>(ES6)
+            <br>JavaScript
+         </td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+            <br>TypeScript
          </td>
          <td align="center">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-            <br>PHP<br>(syntax)
+            <br>PHP
          </td>
       </tr>
       <tr>
-         <td align="left"><strong>Preprocessors, Libraries</strong></td>
+         <td align="left"><strong>Styling</strong></td>
          <td align="center">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
             <br>SASS
          </td>
          <td align="center">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
             <br>Bootstrap
          </td>
          <td align="center">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-            <br>React
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+            <br>Tailwind
          </td>
          <td align="center"></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td align="left"><strong>Libraries</strong></td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="react" width="40" height="40"/>
+            <br>React
+         </td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react-router.svg" alt="react router" width="40" height="40"/>
+            <br>React router
+         </td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/material-ui.svg" alt="material ui" width="40" height="40"/>
+            <br>Material UI
+         </td>
+         <td align="center">
+            <img src="https://scrollmagic.io/assets/img/demo_tophat.png" alt="scroll magic" width="40" height="40"/>
+            <br>Scroll magic
+         </td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td align="left"><strong>Frameworks</strong></td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+            <br>Next.js
+         </td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td></td>
       </tr>
       <tr>
          <td align="left"><strong>Coding tools</strong></td>
@@ -89,12 +127,16 @@
             <br>git
          </td>
          <td align="center">
-            <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/netlify-icon.svg" alt="netlify" width="40" height="40"/>
             <br>Netlify
          </td>
          <td align="center">
             <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/>
             <br>npm and nvm
+         </td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vitejs.svg" alt="vite" width="40" height="40" />
+            <br>Vite
          </td>
          <td align="center"></td>
       </tr>
@@ -112,6 +154,7 @@
          </td>
          <td align="center">
          </td>
+         <td align="center"></td>
       </tr>
       <tr>
          <td align="left"><strong>Design tools</strong></td>
@@ -132,22 +175,22 @@
             <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
             <br>Adobe Illustrator
          </td>
+         <td align="center"></td>
       </tr>
    </tbody>
 </table>
+</div>
 
-<br>
+![coding-cat](https://github.com/WitchDevelops/WitchDevelops/assets/112077394/819347f4-1203-436e-9d83-8e6e92f2dde1)   
 
-# GitHub Trophies
+## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=WitchDevelops&theme=transparent)](https://github.com/WitchDevelops/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=WitchDevelops&theme=transparent)](https://github.com/WitchDevelops/github-profile-trophy)   
 
-# Stats
+
+## Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WitchDevelops&count_private=true&show_icons=true&theme=transparent)](https://github.com/WitchDevelops/github-readme-stats)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=WitchDevelops&layout=compact&theme=transparent)
-
-# Work account stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domi-eStore&count_private=true&show_icons=true&theme=transparent)](https://github.com/WitchDevelops/github-readme-stats)
 
