@@ -192,5 +192,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WitchDevelops&count_private=true&show_icons=true&theme=transparent)](https://github.com/WitchDevelops/github-readme-stats)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=WitchDevelops&layout=compact&theme=transparent)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=WitchDevelops&layout=donut&theme=transparent&langs_count=10)
 
