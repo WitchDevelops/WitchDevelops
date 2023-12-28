@@ -34,15 +34,14 @@
 ## What am I learning at the moment
 
 * [Front-End Engineer career path - CodeCademy](https://www.codecademy.com/profiles/the_witch)
-* [React - W3Schools](https://www.w3schools.com/react/default.asp)
 * [React - Scrimba](https://scrimba.com/learn/learnreact)
 * TypeScript
 * [Next.js - docs](https://nextjs.org/learn)
 
 ## What am I building now
 
-* [web app to track learning progress - group project - Next.js, React, Tailwind](https://github.com/WitchDevelops/progress-tracker)
 * [YouTube clone web app in React](https://github.com/WitchDevelops/VideoVerse)
+* my portfolio
   
 ## My tech stack
 
