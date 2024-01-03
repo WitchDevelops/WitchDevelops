@@ -3,7 +3,7 @@
 # About me
 
 <h2>👋 Hello there, I'm Domi</h2>
-<br>I'm a frontend developer with an extensive background in life science. I love craeting beautiful things with code. I also dabble in UI/UX and graphic design. Usually you can find me reading a book or knitting yet another pair of socks.
+<br>I'm a frontend developer with an extensive background in life science. I love creating beautiful websites and web apps with code. I also dabble in UI/UX and graphic design. Usually you can find me reading a book or knitting yet another pair of socks.
 
 ## Contact
 
