@@ -19,29 +19,28 @@
          <td width="130">Stack overflow</td>
          <td><a href="https://stackoverflow.com/users/21059715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack overflow" height="30" width="40" /></a></td>
           <td></td>
-         <td width="120">Blog</td>
+         <td width="120">Blog </td>
          <td><a href="https://blog.mokosh.dev/" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="hashnode blog" height="30" width="30" /></a></td>
-         <td width="120">Etsy</td>
-         <td><a href="https://www.etsy.com/shop/WitchCraftsDW" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Etsy_icon.svg" alt="hashnode blog" height="30" width="30" /></a></td>
+<!--          <td width="120">Etsy</td>
+         <td><a href="https://www.etsy.com/shop/WitchCraftsDW" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Etsy_icon.svg" alt="hashnode blog" height="30" width="30" /></a></td> -->
       </tr>
    </tbody>
 </table>
 
-<!-- # Portfolio
+# Portfolio
 
-<h3><a href="http://mokosh.dev">mokosh.dev</a></h3> -->
+<h3><a href="https://www.mokosh.dev">www.mokosh.dev</a></h3>
 
 ## What am I learning at the moment
 
-* [Front-End Engineer career path - CodeCademy](https://www.codecademy.com/profiles/the_witch)
-* [React - Scrimba](https://scrimba.com/learn/learnreact)
 * TypeScript
-* [Next.js - docs](https://nextjs.org/learn)
+* Next.js
+* how to work with databases (Supabase)
 
 ## What am I building now
 
-* [YouTube clone web app in React](https://github.com/WitchDevelops/VideoVerse)
-* my portfolio
+* [Web app for handling pet data (in Next.js with Supabase)](https://github.com/WitchDevelops/cardboard-fort)
+* migrating older projects to TypeScript
   
 ## My tech stack
 
@@ -70,6 +69,10 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
             <br>PHP
          </td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="python" width="40" height="40"/>
+            <br>Python
+         </td>
       </tr>
       <tr>
          <td align="left"><strong>Styling</strong></td>
@@ -82,8 +85,12 @@
             <br>Bootstrap
          </td>
          <td align="center">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
             <br>Tailwind
+         </td>
+         <td align="center">
+            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fcss-modules%2Flogos%2Fmaster%2Fcss-modules-logo.png&f=1&nofb=1&ipt=289badb3ad55ef54c2a63696d5595291e9ee559045eaebcc40de29d87b649850&ipo=images" alt="css modules" width="40" height="40"/>
+            <br>CSS Modules
          </td>
          <td align="center"></td>
          <td align="center"></td>
@@ -103,10 +110,17 @@
             <br>Material UI
          </td>
          <td align="center">
+            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FF%2Fframer-motion-logo-DA1E33CAA1-seeklogo.com.png&f=1&nofb=1&ipt=efb3de3ce16a7b0f29f271ca48356ea3fef115e1cd64aa209279b216f32d0e05&ipo=images" alt="framer motion" width="40" height="40"/>
+            <br>Framer Motion
+         </td>
+         <td align="center">
             <img src="https://scrollmagic.io/assets/img/demo_tophat.png" alt="scroll magic" width="40" height="40"/>
             <br>Scroll magic
          </td>
-         <td align="center"></td>
+         <td align="center">
+            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139895814%3Fs%3D280%26v%3D4&f=1&nofb=1&ipt=2e99a52be95ee17cd98761075c405c59dd919a6c9a967f88d074464c3995e0e9&ipo=images" alt="shadcn" width="40" height="40"/>
+            <br>ShadCN
+         </td>
       </tr>
       <tr>
          <td align="left"><strong>Frameworks</strong></td>
@@ -118,9 +132,25 @@
          <td></td>
          <td></td>
          <td></td>
+         <td align="center"></td>
       </tr>
       <tr>
-         <td align="left"><strong>Coding tools</strong></td>
+         <td align="left"><strong>Databases and CMS</strong></td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/supabase-icon.svg" alt="supabase" width="40" height="40"/>
+            <br>Supabase
+         </td>
+         <td align="center">
+            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAATXAJx-stPk1I5znVK00ODV7_fYdkP55KF941cJAg%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1&ipt=62529bb7eb4d2d8e282141a6c85cccc4469559d5d771ce580792febed63e8269&ipo=images" alt="sanity" width="40" height="40"/>
+            <br>Sanity
+         </td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td align="left"><strong>Development tools</strong></td>
          <td align="center">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
             <br>git
@@ -138,6 +168,7 @@
             <br>Vite
          </td>
          <td align="center"></td>
+         <td align="center"></td>
       </tr>
       <tr>
          <td align="left"><strong>Collaboration tools</strong></td>
@@ -153,6 +184,7 @@
          </td>
          <td align="center">
          </td>
+         <td align="center"></td>
          <td align="center"></td>
       </tr>
       <tr>
@@ -174,6 +206,7 @@
             <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
             <br>Adobe Illustrator
          </td>
+         <td align="center"></td>
          <td align="center"></td>
       </tr>
    </tbody>
