@@ -33,14 +33,14 @@
 
 ## What am I learning at the moment
 
-* TypeScript
 * Next.js
-* how to work with databases (Supabase)
+* CS50 web
 
 ## What am I building now
 
 * [Web app for handling pet data (in Next.js with Supabase)](https://github.com/WitchDevelops/cardboard-fort)
 * migrating older projects to TypeScript
+* refactoring my portfolio
   
 ## My tech stack
 
