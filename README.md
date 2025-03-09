@@ -3,7 +3,7 @@
 # About me
 
 <h2>👋 Hello there, I'm Domi</h2>
-<br>I'm a frontend developer with an extensive background in life science. I love creating beautiful websites and web apps with code. I also dabble in UI/UX and graphic design. Usually you can find me reading a book or knitting yet another pair of socks.
+<br>I'm a frontend developer with an extensive background in life science. I love creating beautiful websites and web apps with code. I also dabble in UI/UX and graphic design. Usually you can find me reading a book, playing an (tt/c)RPG or knitting yet another pair of socks.
 
 ## Contact
 
@@ -34,13 +34,13 @@
 ## What am I learning at the moment
 
 * Next.js
-* CS50 web
+* [CS50's Web Programming with Python and JavaScript](https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/block-v1:HarvardX+CS50W+Web+type@sequential+block@5b5791da2eec43c6b5d3d230ec66e75d/block-v1:HarvardX+CS50W+Web+type@vertical+block@5bdbb06fe1f24514954c49cc10813026)
 
 ## What am I building now
 
+* refactoring my portfolio (lots of refactors... improving overall code, implementing new features, adding new pages)
+* [project from Women Go Tech acceleration program by Telia](https://github.com/WgtTelia/Telia-e-shop-front-end)
 * [Web app for handling pet data (in Next.js with Supabase)](https://github.com/WitchDevelops/cardboard-fort)
-* migrating older projects to TypeScript
-* refactoring my portfolio
   
 ## My tech stack
 
@@ -92,7 +92,10 @@
             <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fcss-modules%2Flogos%2Fmaster%2Fcss-modules-logo.png&f=1&nofb=1&ipt=289badb3ad55ef54c2a63696d5595291e9ee559045eaebcc40de29d87b649850&ipo=images" alt="css modules" width="40" height="40"/>
             <br>CSS Modules
          </td>
-         <td align="center"></td>
+         <td align="center">
+            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A318%2F1*7jRD5QhgARucFKvRHFxpOg.png&f=1&nofb=1&ipt=b431a07856e4450d89e8023916dc6a887cc8bc74d29dce449dc5431fbca213af&ipo=images" alt="styled components" width="40" height="40"/>
+            <br>Styled components
+         </td>
          <td align="center"></td>
       </tr>
       <tr>
@@ -110,7 +113,7 @@
             <br>Material UI
          </td>
          <td align="center">
-            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FF%2Fframer-motion-logo-DA1E33CAA1-seeklogo.com.png&f=1&nofb=1&ipt=efb3de3ce16a7b0f29f271ca48356ea3fef115e1cd64aa209279b216f32d0e05&ipo=images" alt="framer motion" width="40" height="40"/>
+            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Q5azlUHD6PqSqPLL1EyBsgHaHa%26pid%3DApi&f=1&ipt=6ae4bcd7ec2e5e678160b47f472d391bf97e10c77b80965897bbe36afeb8625a&ipo=images" alt="framer motion" width="40" height="40"/>
             <br>Framer Motion
          </td>
          <td align="center">
@@ -135,7 +138,7 @@
          <td align="center"></td>
       </tr>
       <tr>
-         <td align="left"><strong>Databases and CMS</strong></td>
+         <td align="left"><strong>Databases and headless CMS</strong></td>
          <td align="center">
             <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/supabase-icon.svg" alt="supabase" width="40" height="40"/>
             <br>Supabase
@@ -167,7 +170,10 @@
             <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vitejs.svg" alt="vite" width="40" height="40" />
             <br>Vite
          </td>
-         <td align="center"></td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+            <br>Webpack
+         </td>
          <td align="center"></td>
       </tr>
       <tr>
@@ -177,10 +183,12 @@
             <br>Jira
          </td>
          <td align="center">
-            <img src="https://upload.vectorlogo.zone/logos/asana/images/cae029cc-73d9-4b0d-83e2-70893c439061.svg" alt="inkscape" width="40" height="40"/>
+            <img src="https://upload.vectorlogo.zone/logos/asana/images/cae029cc-73d9-4b0d-83e2-70893c439061.svg" alt="asana" width="40" height="40"/>
             <br>Asana
          </td>
          <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/slack/slack-original.svg" alt="slack" width="40" height="40" />
+            <br>Slack
          </td>
          <td align="center">
          </td>
@@ -199,7 +207,7 @@
             <br>Inkscape
          </td>
          <td align="center">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
             <br>Adobe Photoshop
          </td>
          <td align="center">
