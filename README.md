@@ -3,7 +3,7 @@
 # About me
 
 <h2>👋 Hello there, I'm Domi</h2>
-<br>I'm a frontend developer with an extensive background in life science. I love creating beautiful websites and web apps with code. I also dabble in UI/UX and graphic design. Usually you can find me reading a book, playing an (tt/c)RPG or knitting yet another pair of socks.
+<br>I'm a frontend engineer with an extensive background in life science. I love creating the UI for modern web apps in React/TypeScript. I also dabble a bit in UI/UX and graphic design. Usually you can find me reading a book, playing an (tt/c)RPG or knitting yet another pair of socks.
 
 ## Contact
 
@@ -35,12 +35,13 @@
 
 * Next.js
 * [CS50's Web Programming with Python and JavaScript](https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/block-v1:HarvardX+CS50W+Web+type@sequential+block@5b5791da2eec43c6b5d3d230ec66e75d/block-v1:HarvardX+CS50W+Web+type@vertical+block@5bdbb06fe1f24514954c49cc10813026)
+* Revisiting revised FreeCodeCamp's curriculum - [fullstack](https://www.freecodecamp.org/learn/full-stack-developer/)
 
 ## What am I building now
 
+* My current focus is freelance work, mainly for the eCommerce sector
 * refactoring my portfolio (lots of refactors... improving overall code, implementing new features, adding new pages)
-* [project from Women Go Tech acceleration program by Telia](https://github.com/WgtTelia/Telia-e-shop-front-end)
-* [Web app for handling pet data (in Next.js with Supabase)](https://github.com/WitchDevelops/cardboard-fort)
+* [Web app for handling pet data (in Next.js with Supabase)](https://github.com/WitchDevelops/cardboard-fort) - put on hold
   
 ## My tech stack
 
