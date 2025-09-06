@@ -97,7 +97,10 @@
             <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A318%2F1*7jRD5QhgARucFKvRHFxpOg.png&f=1&nofb=1&ipt=b431a07856e4450d89e8023916dc6a887cc8bc74d29dce449dc5431fbca213af&ipo=images" alt="styled components" width="40" height="40"/>
             <br>Styled components
          </td>
-         <td align="center"></td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/daisyUI-icon.svg" alt="daisy UI" width="40" height="40"/>
+            <br>Daisy UI
+         </td>
       </tr>
       <tr>
          <td align="left"><strong>Libraries</strong></td>
@@ -148,7 +151,10 @@
             <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAATXAJx-stPk1I5znVK00ODV7_fYdkP55KF941cJAg%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1&ipt=62529bb7eb4d2d8e282141a6c85cccc4469559d5d771ce580792febed63e8269&ipo=images" alt="sanity" width="40" height="40"/>
             <br>Sanity
          </td>
-         <td></td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/mongodb-icon.svg" alt="MOngo DB" width="40" height="40"/>
+            <br>Mongo DB
+         </td>
          <td></td>
          <td></td>
          <td align="center"></td>
@@ -175,7 +181,10 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
             <br>Webpack
          </td>
-         <td align="center"></td>
+         <td align="center">
+            <img src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+            <br>NodeJS
+         </td>
       </tr>
       <tr>
          <td align="left"><strong>Collaboration tools</strong></td>
