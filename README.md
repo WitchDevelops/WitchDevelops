@@ -33,15 +33,15 @@
 
 ## What am I learning at the moment
 
-* Next.js
-* [CS50's Web Programming with Python and JavaScript](https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/block-v1:HarvardX+CS50W+Web+type@sequential+block@5b5791da2eec43c6b5d3d230ec66e75d/block-v1:HarvardX+CS50W+Web+type@vertical+block@5bdbb06fe1f24514954c49cc10813026)
-* Revisiting revised FreeCodeCamp's curriculum - [fullstack](https://www.freecodecamp.org/learn/full-stack-developer/)
+* Node.js and Mongo DB - to switch to the product team at mu current company
+* [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/) - new cohhort just started, so I took this opportunity to jump back in and try to finish it this time - attending the live, unedited lectures on YouTube each Monday https://www.youtube.com/@cs50/streams
+* Revisiting revised FreeCodeCamp's curriculum - [fullstack](https://www.freecodecamp.org/learn/full-stack-developer/) - as a refresher to keep my skills sharp and to learn the things that I've missed in the previous version
 
 ## What am I building now
 
-* My current focus is freelance work, mainly for the eCommerce sector
+* My current focus is freelance work, mainly for the eCommerce sector -> https://github.com/eStoreLabs
 * refactoring my portfolio (lots of refactors... improving overall code, implementing new features, adding new pages)
-* [Web app for handling pet data (in Next.js with Supabase)](https://github.com/WitchDevelops/cardboard-fort) - put on hold
+* [Web app for handling pet data (in Next.js with Supabase)](https://github.com/WitchDevelops/cardboard-fort) - put on hold due to lack of time... but I'll come back to it, refactor, improve, expand ;)
   
 ## My tech stack
 
