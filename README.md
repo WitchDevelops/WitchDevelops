@@ -3,7 +3,9 @@
 # About me
 
 <h2>👋 Hello there, I'm Domi</h2>
-<br>I'm a frontend engineer with an extensive background in life science. I love creating the UI for modern web apps in React/TypeScript. I also dabble a bit in UI/UX and graphic design. Usually you can find me reading a book, playing an (tt/c)RPG or knitting yet another pair of socks.
+<br>
+<p>I'm a software engineer with a background in structural biology - five years at the University of Groningen on LRRK2 (Parkinson's disease), several peer-reviewed publications, now three years building React/TypeScript applications profesionally. I'm interested in research software: tools, dashboards and data platforms that make science open, reproducible and actually usable.</p>
+<p>After hours I'm playing (tt)RPGs with a bunch of nerds (they're the best), fostering a helpful community of people who learn to code on a private Discord server, reading fantasy novels, knitting (mostly socks, I can knit you a pair if you want), swimming in a lake, hiking in the nearby woods or playing with my three cats.</p>
 
 ## Contact
 
@@ -33,15 +35,23 @@
 
 ## What am I learning at the moment
 
-* Node.js and Mongo DB - to switch to the product team at mu current company
-* [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/) - new cohhort just started, so I took this opportunity to jump back in and try to finish it this time - attending the live, unedited lectures on YouTube each Monday https://www.youtube.com/@cs50/streams
-* Revisiting revised FreeCodeCamp's curriculum - [fullstack](https://www.freecodecamp.org/learn/full-stack-developer/) - as a refresher to keep my skills sharp and to learn the things that I've missed in the previous version
+* Python - following courses and projects on [Boot.dev](https://www.boot.dev/u/witchdevelops) to get more into the Python ecosystem and sharpen my overall skills
+* FastAPI
 
 ## What am I building now
 
-* My current focus is freelance work, mainly for the eCommerce sector -> https://github.com/eStoreLabs
-* refactoring my portfolio (lots of refactors... improving overall code, implementing new features, adding new pages)
-* [Web app for handling pet data (in Next.js with Supabase)](https://github.com/WitchDevelops/cardboard-fort) - put on hold due to lack of time... but I'll come back to it, refactor, improve, expand ;)
+* Library of accessible, multibrand components for internal use at wakacje.pl (and other companies under the Wirtualna Polska holding)
+
+## My published academic work
+
+See the list at [orcid.org](https://orcid.org/0000-0003-4145-5194)
+
+* "LRRK2 Targeting Strategies as Potential Treatment of Parkinson’s Disease", Biomolecules, 11(8), 1101; https://doi.org/10.3390/biom11081101
+* "Crosstalk of the structural and zinc buffering properties of mammalian metallothionein-2", Metallomics, 10(4), 595–613, https://doi.org/10.1039/c7mt00332c
+* "Metal-coupled folding as the driving force for the extreme stability of Rad50 zinc hook dimer assembly", Scientific Reports, 6(36346), https://www.nature.com/articles/srep36346
+* "Geometric changes around an N atom due to a urethane-type bis(tert-butoxycarbonyl) substituent", Acta Crystallographica, C69, 82-86, https://doi.org/10.1107/S0108270112048846
+* "The Hydrogen–Deuterium Exchange at α-Carbon Atom in N,N,N-Trialkylglycine Residue: ESI-MS Studies", Journal of the American Society for Mass Spectrometry, 23(6), 1024–1028, https://doi.org/10.1007/s13361-012-0359-1
+
   
 ## My tech stack
 
