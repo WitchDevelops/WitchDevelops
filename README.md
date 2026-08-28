@@ -243,14 +243,4 @@ See the list at [orcid.org](https://orcid.org/0000-0003-4145-5194)
 
 ![coding-cat](https://github.com/WitchDevelops/WitchDevelops/assets/112077394/819347f4-1203-436e-9d83-8e6e92f2dde1)   
 
-## GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=WitchDevelops&theme=algolia&row=2&column=5)](https://github.com/WitchDevelops/github-profile-trophy)   
-
-
-## Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WitchDevelops&count_private=true&show_icons=true&theme=transparent)](https://github.com/WitchDevelops/github-readme-stats)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=WitchDevelops&layout=donut&theme=transparent&langs_count=10)
 
