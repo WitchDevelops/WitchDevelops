@@ -244,3 +244,68 @@ See the list at [orcid.org](https://orcid.org/0000-0003-4145-5194)
 ![coding-cat](https://github.com/WitchDevelops/WitchDevelops/assets/112077394/819347f4-1203-436e-9d83-8e6e92f2dde1)   
 
 
+## Selected certifications
+
+### Python
+
+<table>
+   <tbody>
+      <tr>
+         <td>
+            <a href="https://www.boot.dev/certificates/d840e501-1184-442e-beb4-e99b51d0770e">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/d840e501-1184-442e-beb4-e99b51d0770e.jpeg?v=1787984532" alt="Boot.dev Introduction to Python Course certificate" width="450" />
+</a>
+         </td>
+         <td>
+            <a href="https://www.boot.dev/certificates/43031f0b-58d3-4681-ba46-97e85e3f2c87">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/43031f0b-58d3-4681-ba46-97e85e3f2c87.jpeg?v=1787984229" alt="Boot.dev Learn Object Oriented Programming in Python certificate" width="450" />
+</a>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+### TypeScript
+
+<table>
+   <tbody>
+      <tr>
+         <td>
+            <a href="https://www.boot.dev/certificates/480938b3-ce2b-4c2c-87ac-10d3832bafd6">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/480938b3-ce2b-4c2c-87ac-10d3832bafd6.jpeg?v=1770834432" alt="Boot.dev Learn TypeScript certificate" width="450" />
+</a>
+         </td>
+         <td>
+            <a href="https://www.boot.dev/certificates/39d55966-52c1-43d9-8228-54150037be3b">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/39d55966-52c1-43d9-8228-54150037be3b.jpeg?v=1787984710" alt="Boot.dev Learn HTTP Clients in TypeScript certificate" width="450" />
+</a>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+### Other
+
+<table>
+   <tbody>
+      <tr>
+         <td>
+            <a href="https://www.boot.dev/certificates/b302d7be-34c4-4d1f-a823-b49391c9280d">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/b302d7be-34c4-4d1f-a823-b49391c9280d.jpeg?v=1773388790" alt="Boot.dev Learn SQL certificate" width="450" />
+</a>
+         </td>
+         <td>
+            <a href="https://www.boot.dev/certificates/a21403e3-d9f9-4ad4-b85c-534933c099d2">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a21403e3-d9f9-4ad4-b85c-534933c099d2.jpeg?v=1787984635" alt="Boot.dev Learn Git certificate" width="450" />
+</a>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <a href="https://www.boot.dev/certificates/d168e8b2-26ed-4831-b4f5-84fcc59fd69c">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/d168e8b2-26ed-4831-b4f5-84fcc59fd69c.jpeg?v=1787984763" alt="Boot.dev Learn Linux certificate" width="450" />
+</a>
+         </td>
+      </tr>
+   </tbody>
+</table>
