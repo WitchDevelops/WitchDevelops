@@ -184,7 +184,7 @@ See the list at [orcid.org](https://orcid.org/0000-0003-4145-5194)
             <br>npm and nvm
          </td>
          <td align="center">
-            <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vitejs.svg" alt="vite" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vite-icon.svg" alt="vite" width="40" height="40" />
             <br>Vite
          </td>
          <td align="center">
