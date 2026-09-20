@@ -218,7 +218,7 @@ See the list at [orcid.org](https://orcid.org/0000-0003-4145-5194)
          </td>
          <td align="center">
             <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/turborepo-icon.svg" alt="turborepo" width="40" height="40"/>
-            <br>Turorepo
+            <br>Turborepo
          </td>
          <td align="center">
             <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/webpack.svg" alt="webpack" width="40" height="40"/>
